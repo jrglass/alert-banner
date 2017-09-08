@@ -1,5 +1,5 @@
 # Alert Banner for WordPress
-This is a WordPress plugin to publish custom alert messages that automatically expire on a specified date to the top of a website. 
+This is a WordPress add-on to publish custom alert messages that automatically expire on a specified date to the top of a website. 
 
 *alert-banner.php is dependent on the [Advanced Custom Fields](https://www.advancedcustomfields.com/) plugin to work.*
 
