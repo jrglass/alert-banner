@@ -18,5 +18,4 @@ This is a WordPress plugin to publish custom alert messages that automatically e
 
 ## Screenshots
 [The WP dashboard view creating a new alert banner](screenshots/alert-banner-dashboard.png)
-
 [The alert banner displaying on a website](screenshots/alert-banner-display.png)
