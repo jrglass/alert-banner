@@ -17,4 +17,5 @@ This is a WordPress plugin to publish custom alert messages that automatically e
 5. Upload the `acf-export-alert-banner.json` file to WordPress using the Advanced Custom Fields plugin's import function. If you do not see this option in ACF, you may need to update the plugin.
 
 ## Screenshots
-
+[The WP dashboard view creating a new alert banner](screenshots/alert-banner-dashboard.png)
+[The alert banner displaying on a website](screenshots/alert-banner-display.png)
